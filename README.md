@@ -7,4 +7,8 @@ Scripts to manage a Google Spreadsheet as Task Sheet : assign, send mail on upda
 
 Use:
 Modify config.gs to suits your need.
+Copy the files.
 
+Dependancies :
+- Google Script API (obvously)
+- Undescore is NOT needed
