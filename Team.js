@@ -3,16 +3,13 @@ _.Team = {
         var email = "";
         switch (producer) {
             case "SERGE":
-                email = "snicolas@datawords.com";
+                email = "snicolas@.com";
                 break;
             case "COORD":
-                email = "coord-mo@datawords.com";
+                email = "coord-mo@.com";
                 break;
             case "DELIVERY":
-                email = "snicolas@datawords.com";
-                break;
-            case "BLANDINE":
-                email = "bdupre@datawords.com";
+                email = "snicolas@.com";
                 break;
         }
         return email;
